@@ -12,7 +12,7 @@ export default function Showcase() {
             <p className="lg:text-lg text-slate-400 mb-10">
             A URL Shortener for transforming long links into nice, memorable and trackable short URLs. Use it to shorten links for any social media platforms, blogs, SMS, emails, ads, or pretty much anywhere else you want to share them. Twitter, Facebook, YouTube, Instagram, WhatsApp, emails, SMS, videos.
             </p>
-            <button className="btn-cta rounded-full p-4">Pricing</button>
+            <button className="btn-cta rounded-lg w-full md:w-45">Pricing</button>
           </article>
 
           <article>
