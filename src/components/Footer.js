@@ -46,7 +46,7 @@ export default function Footer() {
             </h3>
             <ul>
               <li>
-                <button className="text-slate-200 text-sm mt-1">Branded and Customized Links</button>
+                <button className="text-slate-200 text-sm mt-1">Branded Links</button>
               </li>
               <li>
                 <button className="text-slate-200 text-sm mt-1">
@@ -86,10 +86,9 @@ export default function Footer() {
               <li>
                 <img src={facebook} alt="" />
               </li>
-              <li className="ml-4">
+              <li className="ml-4 mr-4">
                 <img src={twitter} alt="" />
               </li>
-          
               <li>
                 <img src={instagram} alt="" />
               </li>
